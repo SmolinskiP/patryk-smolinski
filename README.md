@@ -35,7 +35,7 @@ Creator of a platform dedicated to bringing Stoic philosophy into modern daily p
 | **Ashes Fireshow** | [ashes.pl](https://ashes.pl) |
 | **Stoicism** | [dailystoic.pl](https://dailystoic.pl) |
 | **GitHub** | [My Repositories](https://github.com/SmolinskiP) |
-| **YouTube** | [@patrykleszcz](https://www.youtube.com/@patryk-smolinski) |
+| **YouTube** | [@patryk-smolinski](https://www.youtube.com/@patryk-smolinski) |
 | **Behance** | [Portfolio](https://www.behance.net/patryksmolinski) |
 | **Facebook (Personal)** | [Patryk Smoliński](https://www.facebook.com/patryk.smolinski.official) |
 | **Facebook (Ashes)** | [Grupa Ashes](https://www.facebook.com/grupaashes/) |
